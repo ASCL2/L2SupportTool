@@ -16,7 +16,7 @@
 			{
 				"menu": "CrossCom",
 				"id": "crosscom",
-				"function": "frameSRC('CrossCom','URL')",
+				"function": "frameSRC('CrossCom',MENU_CROSSCOM)",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
