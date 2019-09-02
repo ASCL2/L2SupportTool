@@ -6,7 +6,7 @@
 			{
 				"menu": "Store Intranet",
 				"id": "strIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -17,7 +17,7 @@
 			{
 				"menu": "CrossCom",
 				"id": "crosscom",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -28,7 +28,7 @@
 			{
 				"menu": "AirWatch",
 				"id": "airwatch",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -39,7 +39,7 @@
 			{
 				"menu": "SolarWinds",
 				"id": "solarwinds",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -56,8 +56,8 @@
 			{
 				"menu": "Justice Store Intranet",
 				"id": "jstIntranet",
-				"type": "frame",
-				"value": "",
+				"type": "In Frame",
+				"value": MENU_INTRANET_JST,
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -67,7 +67,7 @@
 			{
 				"menu": "Lane Bryant Store Intranet",
 				"id": "lbIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -78,7 +78,7 @@
 			{
 				"menu": "Catherines Store Intranet",
 				"id": "caIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -89,7 +89,7 @@
 			{
 				"menu": "Ann Taylor Store Intranet",
 				"id": "annIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -100,7 +100,7 @@
 			{
 				"menu": "LOFT Store Intranet",
 				"id": "lftIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -111,7 +111,7 @@
 			{
 				"menu": "Lou & Gray Store Intranet",
 				"id": "lgIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -122,7 +122,7 @@
 			{
 				"menu": "Maurices Store Intranet",
 				"id": "mauIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -133,7 +133,7 @@
 			{
 				"menu": "Dressbarn Store Intranet",
 				"id": "dbnIntranet",
-				"type": "frame",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -150,7 +150,7 @@
 			{
 				"menu": "Legacy Brands",
 				"id": "awlegacy",
-				"type": "external",
+				"type": "Externally",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
@@ -160,7 +160,7 @@
 			{
 				"menu": "Ann Brands",
 				"id": "awann",
-				"type": "external",
+				"type": "In Frame",
 				"value": "",
 				"icon": "icon Name",
 				"group": 1,
