@@ -6,7 +6,8 @@
 			{
 				"menu": "Store Intranet",
 				"id": "strIntranet",
-				"function": "add function",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -16,7 +17,8 @@
 			{
 				"menu": "CrossCom",
 				"id": "crosscom",
-				"function": "frameSRC('CrossCom',MENU_CROSSCOM)",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -26,7 +28,8 @@
 			{
 				"menu": "AirWatch",
 				"id": "airwatch",
-				"function": "frameSRC('AirWatch','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -36,7 +39,8 @@
 			{
 				"menu": "SolarWinds",
 				"id": "solarwinds",
-				"function": "frameSRC('SolarWinds','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -52,7 +56,8 @@
 			{
 				"menu": "Justice Store Intranet",
 				"id": "jstIntranet",
-				"function": "frameSRC('Justice Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -62,7 +67,8 @@
 			{
 				"menu": "Lane Bryant Store Intranet",
 				"id": "lbIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -72,7 +78,8 @@
 			{
 				"menu": "Catherines Store Intranet",
 				"id": "caIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -82,7 +89,8 @@
 			{
 				"menu": "Ann Taylor Store Intranet",
 				"id": "annIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -92,7 +100,8 @@
 			{
 				"menu": "LOFT Store Intranet",
 				"id": "lftIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -102,7 +111,8 @@
 			{
 				"menu": "Lou & Gray Store Intranet",
 				"id": "lgIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -112,7 +122,8 @@
 			{
 				"menu": "Maurices Store Intranet",
 				"id": "mauIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -122,7 +133,8 @@
 			{
 				"menu": "Dressbarn Store Intranet",
 				"id": "dbnIntranet",
-				"function": "frameSRC('LBCA Intranet','URL')",
+				"type": "frame",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -138,7 +150,8 @@
 			{
 				"menu": "Legacy Brands",
 				"id": "awlegacy",
-				"function": "frameSRC('Legacy AirWatch', MENU_LEGACY_AW)",
+				"type": "external",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
@@ -147,7 +160,8 @@
 			{
 				"menu": "Ann Brands",
 				"id": "awann",
-				"function": "frameSRC('Ann Brands AirWatch', MENU_ANNBRANDS_AW)",
+				"type": "external",
+				"value": "",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
