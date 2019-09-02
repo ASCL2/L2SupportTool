@@ -1,0 +1,134 @@
+[
+	{
+		"type": "group",
+		"key": "",
+		"rows": [
+			{
+				"menu": "Store Intranet",
+				"id": "strIntranet",
+				"function": "add function",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "",
+				"dropdown": true
+			},
+			{
+				"menu": "CrossCom",
+				"id": "crosscom",
+				"function": "frameSRC('CrossCom','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "",
+				"dropdown": false
+			},
+			{
+				"menu": "AirWatch",
+				"id": "airwatch",
+				"function": "frameSRC('AirWatch','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "",
+				"dropdown": false
+			},
+			{
+				"menu": "SolarWinds",
+				"id": "solarwinds",
+				"function": "frameSRC('SolarWinds','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "",
+				"dropdown": false
+			}
+		]
+	},
+	{
+		"type": "group",
+		"key": "strIntranet",
+		"rows": [
+			{
+				"menu": "Justice Store Intranet",
+				"id": "jstIntranet",
+				"function": "frameSRC('Justice Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "Lane Bryant Store Intranet",
+				"id": "lbIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "Catherines Store Intranet",
+				"id": "caIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "Ann Taylor Store Intranet",
+				"id": "annIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "LOFT Store Intranet",
+				"id": "lftIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "Lou & Gray Store Intranet",
+				"id": "lgIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "Maurices Store Intranet",
+				"id": "mauIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			},
+			{
+				"menu": "Dressbarn Store Intranet",
+				"id": "dbnIntranet",
+				"function": "frameSRC('LBCA Intranet','URL')",
+				"icon": "icon Name",
+				"group": 1,
+				"description": "description",
+				"parent": "strIntranet",
+				"dropdown": false
+			}
+		]
+	}
+]
