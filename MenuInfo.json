@@ -57,7 +57,7 @@
 				"menu": "Justice Store Intranet",
 				"id": "jstIntranet",
 				"type": "In Frame",
-				"value": MENU_INTRANET_JST,
+				"value": "MENU_INTRANET_JST",
 				"icon": "icon Name",
 				"group": 1,
 				"description": "description",
